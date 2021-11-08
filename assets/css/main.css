@@ -161,5 +161,12 @@ a h6:hover {
 
 grey {
 	color: #bdc3c7;
-	font-weight: 700;
+	font-weight: 600;
+}
+
+.name-name{
+  font-weight: 700;
+}
+.name-title{
+  color:rgb(48, 48, 48);
 }
